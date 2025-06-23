@@ -15,7 +15,7 @@ My name is Brian Alibashi and I am a Sophmore at Michigan State Univeristy study
 
 Projects
 ======
-You can click [here!](https://alibashi-brian.github.io/publications/) to view my projects!
+You can click [here!](https://alibashi-brian.github.io/projects/) to view my projects!
 
 Site-wide configuration
 ------
