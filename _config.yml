@@ -22,7 +22,7 @@ repository               : "alibashi-brian/alibashi-brian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :  csepic.jpg
+  avatar           :  "csepic.jpg"
   name             : "Brian ALibashi"
   pronouns         :  "he/him" 
   bio              : "Computer Engineering Sophmore"
