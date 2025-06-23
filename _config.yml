@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Michigan, United States"
 site_theme               : "default"
 title                    : "alibashi-brian.github.io"
 title_separator          : "-"
