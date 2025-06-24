@@ -17,6 +17,6 @@ Projects
 ======
 You can click [here](https://alibashi-brian.github.io/projects/) to view my projects!
 
-Cv
-------
+CV
+======
 You can click [here](https://alibashi-brian.github.io/cv/) to view my CV!
