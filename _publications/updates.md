@@ -1,3 +1,3 @@
 ---
-title: "I will update this page with any projects I develop!"
+title: I will update this page with any projects I develop!
 ---
