@@ -3,10 +3,10 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+$blue                       : #4c86b2;
+$dark-blue                  : mix(hsl(212, 68%, 40%), $blue, 40%);
+$darker-blue                : mix(#0d1d5e, $blue, 60%);
+$light-blue                 : mix(#bcdfff, $blue, 50%);
 
 $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
