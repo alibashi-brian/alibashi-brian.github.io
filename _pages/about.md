@@ -20,3 +20,7 @@ You can click [here](https://alibashi-brian.github.io/projects/) to view my proj
 CV
 ======
 You can click [here](https://alibashi-brian.github.io/cv/) to view my CV!
+
+Portfolio
+======
+You can click [here](https://alibashi-brian.github.io/portfolio/) to view my portfolio and previos assignments!
